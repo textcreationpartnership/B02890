@@ -1,0 +1,934 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Deaths summons: or, A conference betwixt death and the young man, the married man, and the king</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02890</idno>
+            <idno type="STC">Wing D503A</idno>
+            <idno type="STC">ESTC R175918</idno>
+            <idno type="EEBO-CITATION">52211796</idno>
+            <idno type="OCLC">ocm 52211796</idno>
+            <idno type="VID">175641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175641)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2744:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Deaths summons: or, A conference betwixt death and the young man, the married man, and the king</title>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>167-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: stained, tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Christianity --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:175641:1"/>
+            <!-- PDF PAGE 31 -->
+            <head>
+               <hi>Deaths Summons: <hi>OR,</hi>
+               </hi> Conference betwixt Death and the Young Man, the Married Man, and the King.</head>
+            <l>DEath ſtoutly doth poor Man aſſail,</l>
+            <l>And makes his greateſt ſtrength to fail;</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an ſtrives, and comes at all no ſpeed,</l>
+            <l>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt Death be ſure there's no remeed.</l>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>Who's this ſo proudly ſtrikes my Gate,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s if he were ſome Prince of State?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome Tyrant ſurely thou muſt be,</l>
+               <l>That is thy buſineſs with me?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Gates are ſtrongly ſhut, therefore</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o hence, and trouble me no more.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en thy Gate, let in thy foe,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y folly makes thee anſwer ſo;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Death, thy mortal enemie,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harge thee now, prepare for me;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou's know me better ere we ſhed,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen I have bound thee to thy bed.</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat? Death, why comes thou here ſo ſoon?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day is not yet come to noon:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uldſt thou cut down the Flowers in <hi>May?</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſet the Sun before mid-day?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtrength is firm, I do not fear;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore I counſel thee retire.</l>
+               <l>
+                  <pb facs="tcp:175641:2"/>
+                  <!-- PDF PAGE 32 -->Though thou be yet of tender age;</l>
+               <l>That nothing doth my zeal aſſwage:</l>
+               <l>No date of age is ſet to me,</l>
+               <l>Some young, ſome old, each man muſt die,</l>
+               <l>Prepare thoe now, make no delay,</l>
+               <l>Thy ſhifting will not make thee ſtay.</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>What doſt thou mean? Art thou in haſte?</l>
+               <l>I take thy ſuit to be in jeſt.</l>
+               <l>Should I prepare for thee, before</l>
+               <l>My years in number paſs threeſcore,</l>
+               <l>This ſuit to me is but in vain,</l>
+               <l>Thou ſhalt not yet thy purpoſe gain.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>I'm ſerious always when I ſpeak,</l>
+               <l>And do obtain what I do ſeek:</l>
+               <l>Thy folly makes thee to refuſe,</l>
+               <l>Know thou, no jeſting I do uſe:</l>
+               <l>Ere it be long thou ſhalt receive</l>
+               <l>A dart ſhall wound thee to the grave.</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>I'm wounded ſore, yet that's no matter</l>
+               <l>Within few days I ſhall grow better:</l>
+               <l>It is no new thing thus to be</l>
+               <l>A little pain'd, and yet not die:</l>
+               <l>With Medicine and nature ſtrong,</l>
+               <l>My pain ſhall ceaſe ere it be long.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>No Medicine ſhall do thee good.</l>
+               <l>Thy natures ſtrength, and heat of blood,</l>
+               <l>Shall not reſcue thee from my hand,</l>
+               <l>There's nothing can my force withſtand:</l>
+               <l>So thou ſhalt quickly have a dart</l>
+               <l>That mortally ſhall wound thy heart,</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:175641:2"/>
+               <!-- PDF PAGE 32 -->
+               <speaker>The Young Man.</speaker>
+               <l>Now I am wounded ſore indeed,</l>
+               <l>I ſtrugled have, and come no ſpeed;</l>
+               <l>I'll ſtrive no more, but will deſiſt,</l>
+               <l>I think it beſt now to ſoliſt:</l>
+               <l>Have pitie, and my youth head ſpare,</l>
+               <l>And do not fruſtrate my welfare.</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>Thou may ſoliſt, yet not prevail;</l>
+               <l>Thy arguments they ſhall thee fail:</l>
+               <l>Thy ſtrugling, and thy oratrie,</l>
+               <l>Shall both alike come ſpeed with me,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> know not how to be ſoliſted,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y purpoſes cannot be wreſted:</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Death! thy talk is very bold,</l>
+               <l>Wilt thou not pity young nor old?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an nothing now thy fury ſwage,</l>
+               <l>Except I die in flower of age?</l>
+               <l>O crueltie! Who can but hate</l>
+               <l>Thy dealing, and my caſe regrate?</l>
+            </sp>
+            <sp>
+               <speaker>Death.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> care not who thy caſe lament,</l>
+               <l>Their tears ſhall not make me repent,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll deal with thee on that ſame ſcore,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I have dealt with all before.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſolve thee freelie now to yield,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r nothing from me can thee ſhield.</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad lament! What ſhall I ſay?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt this now be my dying day?</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time hath been a moment here,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nitie doth now appear.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I lay down this body ſo,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> knowing whither I ſhall go?</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:175641:3"/>
+               <!-- PDF PAGE 33 -->
+               <speaker>Death.</speaker>
+               <l>Thy glaſs is run, thy time is gone,</l>
+               <l>It is too late to make thy moan.</l>
+               <l>Thy healthy days are ſlidden by,</l>
+               <l>Eternitie it draweth nie:</l>
+               <l>Thy days of health they were moſt fit,</l>
+               <l>To view thy ſin, and mourn for it.</l>
+            </sp>
+            <sp>
+               <speaker>The Young Man.</speaker>
+               <l>O loving friends, what ſhall I do?</l>
+               <l>Or whither ſhall I turn me to?</l>
+               <l>Death will not ſpare, God's ſtrange to me,</l>
+               <l>No other thing but wrath I ſee,</l>
+               <l>No tongue of Angels can expreſs,</l>
+               <l>What is my dole and heavineſs.</l>
+               <l>O that ye would in time repent</l>
+               <l>Your ſins, leſt Death you thus prevent:</l>
+               <l>Do not your precious time miſpend,</l>
+               <l>Leſt it be bitter at your end.</l>
+               <l>My ſad example may you teach:</l>
+               <l>And ſo with this I end my ſpeech.</l>
+            </sp>
+            <div type="part">
+               <sp>
+                  <speaker>The Married Man.</speaker>
+                  <l>WHat is my eaſe? What means this pain,</l>
+                  <l>That doth my carnal joy reſtrain?</l>
+                  <l>My ſtrength doth fail, my head doth ake,</l>
+                  <l>And all my bones begin to ſhake.</l>
+                  <l>Shall I in earn'ſt my ſelf perſwade,</l>
+                  <l>That this is Death doth me invade.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>Go to, thy houſe in order ſet,</l>
+                  <l>For thou muſt quickly pay thy Debt;</l>
+                  <l>Which every man doth owe to me,</l>
+                  <l>Who hath put on mortalitie,</l>
+                  <l>
+                     <pb facs="tcp:175641:3"/>
+                     <!-- PDF PAGE 33 -->
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat I am Death, I make thee ſure,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Medicine my wound ſhall cure.</l>
+               </sp>
+               <sp>
+                  <speaker>The Married Man.</speaker>
+                  <l>I'm wedded, and my children ſmall,</l>
+                  <l>How can I hearken to thy call?</l>
+                  <l>Forbear a little, give me ſpace</l>
+                  <l>My pleaſant portion to imbrace;</l>
+                  <l>My infants they are unprovided,</l>
+                  <l>My ſuits in Law are undecided.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>Thy childrens age I do neglect,</l>
+                  <l>Thy married ſtate I'le not reſpect:</l>
+                  <l>That portion pleaſant in thy fight</l>
+                  <l>Shall quickly interchange with night;</l>
+                  <l>Thy children thou ſhalt not provide,</l>
+                  <l>Nor any ſuits in Law decide.</l>
+               </sp>
+               <sp>
+                  <speaker>The Married Man.</speaker>
+                  <l>O ſudden change and unexpected!</l>
+                  <l>Death was the thing I moſt neglected:</l>
+                  <l>I ſtudied nought but here to bide,</l>
+                  <l>My wife and children to provide.</l>
+                  <l>Now I am ſummon'd, ere I be</l>
+                  <l>Well fix'd in my felicitie.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fixed and an happie ſtate</l>
+                  <l>To fancie here; it îs too late:</l>
+                  <l>No byding here I will thee grant,</l>
+                  <l>Though Wife and Children all ſhould want.</l>
+                  <l>My Summons thou muſt now obey;</l>
+                  <l>No longer time thou haſt to ſtay.</l>
+               </sp>
+               <sp>
+                  <speaker>The Married Man</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d is my caſe, what ſhall I ſay?</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ſummon'd now to die this day.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y compts with God they are not clear:</l>
+                  <l>
+                     <pb facs="tcp:175641:4"/>
+                     <!-- PDF PAGE 34 -->His wrath and juſtice I do fear.</l>
+                  <l>My conſcience in me damps me ſo,</l>
+                  <l>That God appeareth as my fo:</l>
+                  <l>With fervent ſuit I thee require,</l>
+                  <l>That thou wouldſt grant me my deſire;</l>
+                  <l>Give me ſome ſpace yet to begin</l>
+                  <l>An holy life, and die to ſin.</l>
+                  <l>O how do I abhore to die,</l>
+                  <l>While I no hope of mercie ſee.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>Thy fervent ſuit ſhall not procure</l>
+                  <l>The length'ning of thy life an hour.</l>
+                  <l>A time was given to repent,</l>
+                  <l>Which in thy folly thou miſpent;</l>
+                  <l>The time that's gone, thou's not recall,</l>
+                  <l>No longer time thou purchaſe ſhall.</l>
+               </sp>
+               <sp>
+                  <speaker>The Married Man.</speaker>
+                  <l>O ſudden, ſad, and doleful day!</l>
+                  <l>My debt is great, I cannot pay.</l>
+                  <l>What horrid ſight is this to me?</l>
+                  <l>A fire to burn, worm not to die:</l>
+                  <l>Eternallie to loſe the light,</l>
+                  <l>And have with Devils a conſtant night.</l>
+                  <l>Muſt I endure this ſadeſt caſe,</l>
+                  <l>The wrath of God without releaſe?</l>
+                  <l>O that this might be granted me!</l>
+                  <l>Still ſick to ly, and not to die.</l>
+                  <l>This I would chooſe, but no remeed;</l>
+                  <l>For cruel Death doth cut my threed.</l>
+               </sp>
+            </div>
+            <div type="part">
+               <sp>
+                  <speaker>The King</speaker>
+                  <l>WHo's this ſo bold, I wonder much,</l>
+                  <l>That dare my ſacred perſon touch?</l>
+                  <l>
+                     <pb facs="tcp:175641:4"/>
+                     <!-- PDF PAGE 34 -->
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not me to be</l>
+                  <l>Commander of this Monarchie.</l>
+                  <l>Go, call my Subjects to my hand,</l>
+                  <l>This cruel Traitor to command.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>Although thou be a King of power,</l>
+                  <l>Thou ſhalt find me thy match, and more</l>
+                  <l>The King of Terrors calls thee now,</l>
+                  <l>Lay down thy Crown and to me bow:</l>
+                  <l>Let all thy Subjects come, and ſee,</l>
+                  <l>How ſtoutly I ſhall vanquiſh thee.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>Phyſicians all to meet require,</l>
+                  <l>Of beſt renown in my Impire.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et them imploy their cunning skill,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o free my perſon from this ill:</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir wits together I am ſure,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall length of days to me procure.</l>
+               </sp>
+               <sp>
+                  <speaker>Death:</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hy cunning men of greateſt skill,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hy fooliſh hopes ſhall not fulfill;</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t them conveen, and do their beſt,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir wit ſhall not procure thee reſt.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> drog compoſed by their Art,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all looſe my finger from thy heart.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lt thou not reverence Kings with Crown?</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t cruellie wilt pull them down.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> great affairs do ſo require,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> yet to govern this Impire.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> abſence and my fatal fall,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Kingdom great will ruine all.</l>
+               </sp>
+               <sp>
+                  <speaker>Death.</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Begger and the King to me,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> both of equal Majeſtie<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <pb facs="tcp:175641:5"/>
+                     <!-- PDF PAGE 35 -->The great affairs of thy Impire,</l>
+                  <l>Shall not obtain thee thy deſire.</l>
+                  <l>Though all thy Kingdoms come to nought,</l>
+                  <l>I'le have the thing that I have ſought.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>Some great deſigns I have intended,</l>
+                  <l>Should I then die, ere they be ended.</l>
+                  <l>My Armies all go out with fame,</l>
+                  <l>To purchaſe me a greater name:</l>
+                  <l>If I ſhall die, they will deſiſt,</l>
+                  <l>And burie me with ſhame in duſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Death</speaker>
+                  <l>The great deſigns by thee pretended,</l>
+                  <l>Thine eyes ſhall never ſee them ended.</l>
+                  <l>Thine Armies great ſhall not thee bring,</l>
+                  <l>More honour, nor a longer Reign.</l>
+                  <l>I make no count to bear the blame,</l>
+                  <l>To burie thee in duſt with ſhame.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>Phyſicians learn'd, make ſome Reply,</l>
+                  <l>It doth now on your honour ly;</l>
+                  <l>Such excellent advice to give,</l>
+                  <l>As may your noble Prince relieve.</l>
+                  <l>Let no expenſes be regarded,</l>
+                  <l>Your pains ſhall richly be rewarded.</l>
+               </sp>
+               <sp>
+                  <speaker>The Phyſicians.</speaker>
+                  <l>O Royal King, it ſhall be ſo,</l>
+                  <l>All coſt and pains we'll undergo,</l>
+                  <l>To mitigate thy cruel pain:</l>
+                  <l>We love our honour more than gain,</l>
+                  <l>Yet our advice take in thy hand,</l>
+                  <l>No Medicine can Death withſtand.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>Muſt I then die, and no remeed?</l>
+                  <l>
+                     <pb facs="tcp:175641:5"/>
+                     <!-- PDF PAGE 35 -->
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Death not my great terror dr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>?</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> millions I did wale the S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>d,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> one commands me with a word.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his beſeeming to a King,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t formerlie at will did reign?</l>
+               </sp>
+               <sp>
+                  <speaker>Death</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh thou the greateſt Monarch be,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it beſeems you well to die;</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſwelling pride hath darkt thy wit,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u never didſt reſolve to flit.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e off thy prating proud, for I</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> boaſting tongue from ſpeech will ty.</l>
+               </sp>
+               <sp>
+                  <speaker>The King.</speaker>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmies great, what do you ſay?</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ye this violence repay?</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r King is taken from your head,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om ye did greatly fear and dread.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ventur'd many lives for me,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> now alas my ſelf muſt die,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oyal Subjects, ſad, alas!</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſorrowful now is my caſe.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eave this Honour, Glory, Crown,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Kingdoms all, and ſo ly down</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſt, and nothing more to have,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n honourablie be laid in grave.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s was in me a fooliſh thought,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Heav'n to Kings needs not be bought:</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> now I ſee in entering there,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Begger may with Kings com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ates of Heaven no entering in</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uch as are not waſh'd from ſin.</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> this I never made my work,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> out of time I now remark,</l>
+                  <l>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h in Chriſt's blood to be more worth</l>
+                  <l>
+                     <pb facs="tcp:175641:6"/>
+                     <!-- PDF PAGE 36 -->
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>han Kingdoms, honour, riches, birth;</l>
+                  <l>And whatſoever they can give,</l>
+                  <l>At hour of death they'll take their leave:</l>
+                  <l>O that this might a warning give</l>
+                  <l>To all that richlie here do live!</l>
+                  <l>All earthlie glorie hath a date,</l>
+                  <l>Repent in time, or elſe too late.</l>
+                  <l>O take this leſſon now from me,</l>
+                  <l>All is but vain, and ſo <hi>I</hi> die.</l>
+               </sp>
+            </div>
+            <div type="part">
+               <head>The Sincere Believer.</head>
+               <l>O Death, what wouldſt thou me to ſay?</l>
+               <l>I know what Debt I have to pay:</l>
+               <l>I muſt lay down this mortal life,</l>
+               <l>And ſo for ay to end my ſtrife;</l>
+               <l>Though that thou wouldſt grant me delay,</l>
+               <l>I chooſe no longer here to ſtay.</l>
+               <l>Thy coming here not ill I take,</l>
+               <l>Thou's welcome for thy Maſters ſake.</l>
+               <l>Love-tokens he doth ſend with thee,</l>
+               <l>That ſhortly I his face ſhall ſee.</l>
+               <l>My Husbands meſſenger thou art,</l>
+               <l>Come quickly then, and act thy part.</l>
+               <l>Come, looſe my bonds, and let me go,</l>
+               <l>O Death, why doſt thou linger ſo?</l>
+               <l>Make haſte, O time, my glaſs, run out;</l>
+               <l>Sun, ſwiftlie move thy courſe about:</l>
+               <l>Cloſe up my time, that once he may</l>
+               <l>Come ſolemnize the wedding day.</l>
+               <l>Then ſhall my joyful day begin,</l>
+               <l>When I his preſence enter in;</l>
+               <l>Then ſhall I taſte eternallie,</l>
+               <l>Which in my life my Faith did ſee:</l>
+               <l>The earneſt is ſo ſweet to taſte,</l>
+               <l>That to enjoy the harv'ſt I haſte.</l>
+               <l>
+                  <pb facs="tcp:175641:6"/>
+                  <!-- PDF PAGE 36 -->The term-day of my grief is come,</l>
+               <l>For now I'le ever ceafe from ſin;</l>
+               <l>Death's bodie now I ſhall lay down,</l>
+               <l>And ſhall put on immortal Crown:</l>
+               <l>And ſet my feet on neck of thoſe,</l>
+               <l>That in my life were vexing foes.</l>
+               <l>Though thou this breath take me fro,</l>
+               <l>I will not count thee as my foe.</l>
+               <l>No terrour thou can be to me,</l>
+               <l>Since Chriſt my life for Me did die,</l>
+               <l>O Death, I am thy death, ſaid he,</l>
+               <l>O Grave, <hi>I</hi> am thy victorie.</l>
+               <l>From hence the bitter ſting is loſt,</l>
+               <l>Thou canſt no ſound believer boaſt.</l>
+               <l>I'll willingly endure the pain,</l>
+               <l>And die in hope to live again.</l>
+               <l>Now, holie Father, to thy hand,</l>
+               <l>The Sp'rit thou gave I do commend.</l>
+               <l>O that Death would within ſhort ſpace,</l>
+               <l>Remove that vail that hides his face:</l>
+               <l>That I may ſee as I am ſeen,</l>
+               <l>And nothing come our face between,</l>
+               <l>That I might ſee that compleat ſight</l>
+               <l>Of Jeſus in his glory bright.</l>
+               <l>O deareſt friends, come, learn at me</l>
+               <l>While ye have life, ſtill learn to die.</l>
+               <l>Make peace with God in Jeſus Chriſt,</l>
+               <l>Then Death and ye ſhall ſweetly tryſt.</l>
+               <l>Ye need not fear a moments pain,</l>
+               <l>A door ſhall open to your gain.</l>
+               <l>Take not this counſel as a jeſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpeak to you from what I taſte,</l>
+               <l>All that this earth could give to me</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dung, compar'd with what I ſee</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ehind the vail; then nothing fear</l>
+               <l>
+                  <pb facs="tcp:175641:7" rendition="simple:additions"/>
+                  <!-- PDF PAGE 37 -->
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſe whatever you have here,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> find the earneſt of this joy,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wit and ſtrength do all imploy,</l>
+               <l>The ſhadows vain on earth forſake,</l>
+               <l>Sad reck'ning in the end they'l make,</l>
+               <l>O that ye ſaw what I do feel:</l>
+               <l>And ſo I bid you all farewell.</l>
+            </div>
+            <div type="part">
+               <head>The Believing Souls So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iloque to it ſelf.</head>
+               <l>MOunt up, O Soul, above created glore,</l>
+               <l>Take Chriſt in ſtead of all thou had before</l>
+               <l>On earth below; take life in ſtead of death;</l>
+               <l>Take joy for grief; moſt willingly out-breath</l>
+               <l>This dying life, not worthie of the name;</l>
+               <l>Triumph ov'r death, ov'r trouble, ſorrow, ſhame</l>
+               <l>Put off thy beggers robe, thy bodie frail,</l>
+               <l>Thy earthlie mind that in the mire doth trail,</l>
+               <l>Put on that ſute that never ſhall wax old,</l>
+               <l>Thy ſelf in Chriſt's pure righteouſneſs unfold.</l>
+               <l>Mount up and reign in perfect joy and love,</l>
+               <l>Poſſeſs the Throne, that Houſe that is above;</l>
+               <l>Not made with hands, eternal in the Heav'n;</l>
+               <l>Expect thy bodie from the duſt again.</l>
+               <l>Joyn'd with thy ſoul, that both together may</l>
+               <l>Sing praiſe to God, that e're they ſaw that day:</l>
+               <l>To God the Father, who did plot ſuch thing,</l>
+               <l>A ſinful worm, ay with himſelf to reign.</l>
+               <l>To Chriſt, the Son, who his blood fullie ſpent.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> blameleſs to the Father to preſent.</l>
+               <l>And to the Spirit, who doth us ſanctifie,</l>
+               <l>Ay Three in One, and ever One in Three,</l>
+               <l>Here I deſiſt, becauſe the time is ny;</l>
+               <l>And ſo I flit hence to eternity.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175641:7"/>
+            <!-- PDF PAGE 37 -->
+         </div>
+      </body>
+   </text>
+</TEI>
